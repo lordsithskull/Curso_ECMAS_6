@@ -1,2 +1,2 @@
-# Curso_ECMAS_6
-Curso de ECMAS6+
+# Curso_Manejo_Arrays
+Curso de Manejo de Arrays en JS
